@@ -1,0 +1,15 @@
+Al inciar el programa, aparecerá la ventana de ingreso de datos.
+
+En la ventana para ingresar datos se debe escoger la cantidad de procesos y la cantidad de E/S:
+	- La cantidad de procesos es un número del uno al diez.
+	- La cantidad de E/S dependiendo de este número será la cantidad de rafagas de un proceos, 
+		siendo la cantidad de rafagas de CPU el número ingresado en E/S + 1.
+Los números con los que aparecen por defecto la cantidad de E/S y la cantidad de procesos, son la cantidad
+máxima que soporta el programa.
+
+Las otras dos ventanas(Diagrama de Gantt y tabla de resultados) aparecerán vacías hasta que se llenen los datos y se
+de clic en ejecutar.
+
+En la ventana del diagrama de Gantt, al dar clic a un cuadro de estado de un proceso, aparecerá una ventana emergente
+donde se mostrará información extra del proceso como por ejemplo la cola que ocupa en ese momento y el tiempo que hay en el
+eje x.
